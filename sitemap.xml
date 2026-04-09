@@ -1,55 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://eurobioc2026.bioconductor.org/index.html</loc>
-    <lastmod>2026-04-08T18:12:54.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eurobioc2026.bioconductor.org/pages/organizers.html</loc>
-    <lastmod>2026-04-08T18:12:54.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eurobioc2026.bioconductor.org/pages/about-turku.html</loc>
-    <lastmod>2026-04-08T18:12:54.953Z</lastmod>
-  </url>
-  <url>
     <loc>https://eurobioc2026.bioconductor.org/pages/submissions.html</loc>
-    <lastmod>2026-04-08T18:12:54.954Z</lastmod>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
   </url>
   <url>
     <loc>https://eurobioc2026.bioconductor.org/pages/partners.html</loc>
-    <lastmod>2026-04-08T18:12:54.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eurobioc2026.bioconductor.org/pages/travel-information.html</loc>
-    <lastmod>2026-04-08T18:12:54.954Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eurobioc2026.bioconductor.org/pages/sticker-contest.html</loc>
-    <lastmod>2026-04-08T18:12:54.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eurobioc2026.bioconductor.org/pages/registration.html</loc>
-    <lastmod>2026-04-08T18:12:54.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eurobioc2026.bioconductor.org/pages/pre-conference.html</loc>
-    <lastmod>2026-04-08T18:12:54.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eurobioc2026.bioconductor.org/pages/speakers.html</loc>
-    <lastmod>2026-04-08T18:12:54.953Z</lastmod>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
   </url>
   <url>
     <loc>https://eurobioc2026.bioconductor.org/pages/past-events.html</loc>
-    <lastmod>2026-04-08T18:12:54.953Z</lastmod>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
   </url>
   <url>
-    <loc>https://eurobioc2026.bioconductor.org/pages/schedule.html</loc>
-    <lastmod>2026-04-08T18:12:54.953Z</lastmod>
+    <loc>https://eurobioc2026.bioconductor.org/pages/about-turku.html</loc>
+    <lastmod>2026-04-09T08:18:59.487Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eurobioc2026.bioconductor.org/pages/registration.html</loc>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
   </url>
   <url>
     <loc>https://eurobioc2026.bioconductor.org/pages/code-of-conduct.html</loc>
-    <lastmod>2026-04-08T18:12:54.953Z</lastmod>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eurobioc2026.bioconductor.org/pages/speakers.html</loc>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eurobioc2026.bioconductor.org/index.html</loc>
+    <lastmod>2026-04-09T08:18:59.487Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eurobioc2026.bioconductor.org/pages/schedule.html</loc>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eurobioc2026.bioconductor.org/pages/sticker-contest.html</loc>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eurobioc2026.bioconductor.org/pages/pre-conference.html</loc>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eurobioc2026.bioconductor.org/pages/conference-dinner.html</loc>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eurobioc2026.bioconductor.org/pages/organizers.html</loc>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eurobioc2026.bioconductor.org/pages/travel-information.html</loc>
+    <lastmod>2026-04-09T08:18:59.489Z</lastmod>
   </url>
 </urlset>
